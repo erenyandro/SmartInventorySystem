@@ -23,7 +23,7 @@ The system is built using **Object-Oriented Programming (OOP)** concepts such as
 ## How to Run  
 1. Clone the repository:  
    ```bash
- git clone https://github.com/erenyandro/SmartInventorySystem.git
+git clone https://github.com/erenyandro/SmartInventorySystem.git
  
 2. Open the project in IntelliJ IDEA (or any preferred Java IDE).
 
@@ -32,4 +32,5 @@ The system is built using **Object-Oriented Programming (OOP)** concepts such as
 4.Run the program.
 
 
-Developed by Ereny Andry.  
+## Developed by 
+Ereny Andry.  
