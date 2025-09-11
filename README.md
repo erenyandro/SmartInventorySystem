@@ -12,7 +12,17 @@ The system is built using **Object-Oriented Programming (OOP)** concepts such as
 - Demonstrates **OOP concepts** in practice.  
 
 ---
+## Screenshots
 
+### Main.java (how to run)
+![Main.java - show main method and run instructions](screenshots/main.png)
+*Short caption: Main.java showing the `main` entry point and how to start the program.*
+
+### Program Output (console)
+![Program output - adding and listing products](screenshots/output.png)
+*Short caption: Example console output after adding a product and listing inventory.*
+
+---
 ## Technologies Used  
 - Java  
 - IntelliJ IDEA (or any Java IDE)  
@@ -22,15 +32,11 @@ The system is built using **Object-Oriented Programming (OOP)** concepts such as
 
 ## How to Run  
 1. Clone the repository:  
-   ```bash
-git clone https://github.com/erenyandro/SmartInventorySystem.git
- 
+   ```bash git clone https://github.com/erenyandro/SmartInventorySystem.git
 2. Open the project in IntelliJ IDEA (or any preferred Java IDE).
-
 3.Navigate to the Main.java file.
-
 4.Run the program.
 
 
 ## Developed by 
-Ereny Andry.  
+Ereny Andry [https://github.com/erenyandro]
