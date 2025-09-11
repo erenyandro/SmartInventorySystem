@@ -15,10 +15,10 @@ The system is built using **Object-Oriented Programming (OOP)** concepts such as
 ## Screenshots
 
 ### Main.java (how to run)
-![Main.java](screenshots/main.png)  
+![Main.java]([screenshots/main.png])  
 *Main class in IntelliJ IDEA*
 
-![Program Output](screenshots/output.png)  
+![Program Output]([screenshots/output.png])  
 *Program output example*
 
 ---
