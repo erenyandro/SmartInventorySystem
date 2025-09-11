@@ -15,10 +15,10 @@ The system is built using **Object-Oriented Programming (OOP)** concepts such as
 ## Screenshots
 
 ### Main.java (how to run)
-![Main.java]([[screenshots/main.png]](https://github.com/erenyandro/SmartInventorySystem/blob/main/Screenshots/main.png))  
+![Main.java](screenshots/main.png)  
 *Main class in IntelliJ IDEA*
 
-![Program Output]([[screenshots/output.png]](https://github.com/erenyandro/SmartInventorySystem/blob/main/Screenshots/output.png))  
+![Output](screenshots/output.png)
 *Program output example*
 
 ---
