@@ -15,11 +15,11 @@ The system is built using **Object-Oriented Programming (OOP)** concepts such as
 ## Screenshots
 
 ### Main.java (how to run)
-![Main.java - show main method and run instructions](screenshots/main.png)
+![Main.java - show main method and run instructions](screenshots_main.png)
 *Short caption: Main.java showing the `main` entry point and how to start the program.*
 
 ### Program Output (console)
-![Program output - adding and listing products](screenshots/output.png)
+![Program output - adding and listing products](screenshots_output.png)
 *Short caption: Example console output after adding a product and listing inventory.*
 
 ---
